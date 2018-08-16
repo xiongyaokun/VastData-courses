@@ -5,6 +5,8 @@
 - [Python官网](https://www.python.org/)
 - [Python官方文档手册](https://docs.python.org/3/)
 - [Pycharm](http://www.jetbrains.com/pycharm/)
+- [Github](https://github.com/)
+- [Git](https://git-scm.com/)
 
 ### Web-Courses
 - [慕课网](https://www.imooc.com/)
